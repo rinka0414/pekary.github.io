@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: img/logos/logo.jpg
 
 # Tertiary Parameters
-github_username:  rinka0414
-project_repository: rinka0414
-disqus_shortname: rinka0414
+github_username:  pekary
+project_repository: pekary
+disqus_shortname: pekary
 g-analytics: UA-75881392-1
 altmetric: true
 
@@ -41,7 +41,7 @@ defaults:
 # Prose Settings
 prose:
   ignore: ['feed.xml', '/stl', '/ply', '/js', '/plugin', '/lib', '/projectors', '_layouts', '/_includes', 'Gruntfile.js', 'package.json', 'proselinks.jsonp', 'ppanchor.matin', '.gitignore', '/search', '/css', '/img', 'favicon.png','_data/*.json','LICENSES.md','README.md','colorscheme.scss','members.html','mentions.html','index.html']
-  siteurl: 'http://rinka0414.github.io'
+  siteurl: 'http://pekary.github.io'
   ispp: true
   media: 'img'
   metadata:
