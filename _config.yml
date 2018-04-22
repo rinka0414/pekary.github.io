@@ -3,9 +3,6 @@ title: HI, I'M RINKA
 description: "Love coding, love life."
 url: "https://rinka0414.github.io"
 
-
-
-
 # Secondary Parameters
 baseurl: ""
 header-img: img/home-bg.jpg
@@ -13,11 +10,11 @@ headercolor: "#FFFFFF"
 logo: img/logos/logo.jpg
 
 # Tertiary Parameters
-github_username:  rinka0414
-project_repository: rinka0414
+github_username: rinka0414
+project_repository:
 disqus_shortname: rinka0414
-g-analytics: UA-75881392-1
-altmetric: true
+g-analytics:
+altmetric: false
 
 # Build settings
 gems: [jekyll-paginate]

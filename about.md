@@ -6,5 +6,5 @@ header-img: "img/home-bg.jpg"
 ---
 
 
-I'm a graduate interested in Machine Learning.
+I'm rinka, loving the spirit of sharing and eager to contribute to open source software.
 	
